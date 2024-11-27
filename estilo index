@@ -1,0 +1,15 @@
+ 
+        h1{
+            color:(red,rgb(228, 220, 245),yellowgreen);
+            font-size: 50px;
+
+        }
+        p{
+            color: blue;
+            font-family: verdana;
+        }
+        img{
+            border: 50px solid pink;
+            width: 20%;
+        }
+    
